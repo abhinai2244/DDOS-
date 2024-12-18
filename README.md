@@ -46,7 +46,7 @@ Before running the bot, ensure the following:
 
 1. Clone or download this repository:
    ```bash
-   git clone <[repository-url](https://github.com/abhinai2244/DDOS-.git)>
+   git clone <https://github.com/abhinai2244/DDOS-.git>
    cd <repository-folder>
    ```
 
@@ -93,5 +93,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [MongoDB](https://www.mongodb.com/): For database operations.
 
 
-##DO NOT COPY CLUSTER MY BOYS IT WONT WORK 😂
+## DO NOT COPY CLUSTER MY BOYS IT WONT WORK 😂
 GENARATE YOUR CLUSTER IN MONGO WEBSITE USE YOURS :)   .
