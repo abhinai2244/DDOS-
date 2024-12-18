@@ -46,7 +46,7 @@ Before running the bot, ensure the following:
 
 1. Clone or download this repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/abhinai2244/DDOS-.git)>
    cd <repository-folder>
    ```
 
