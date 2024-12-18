@@ -93,5 +93,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [MongoDB](https://www.mongodb.com/): For database operations.
 
 
-## DO NOT COPY CLUSTER MY BOYS IT WONT WORK 😂
+## DO NOT COPY MY CLUSTER MY BOYS IT WONT WORK 😂
 GENARATE YOUR CLUSTER IN MONGO WEBSITE USE YOURS :)   .
