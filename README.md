@@ -2,6 +2,8 @@
 WORKING ON TCP/UDP PORTS USE RESPONSIBLY DO NOT USE ON PUBLIC OR GOVERNMENT SERVERS IT MAKE CAUSE SERVER FLOODS 😇
 # Python Telegram Bot with MongoDB Integration
 
+#MAKE YOUR OWN BINARY AND ATTACH TO THIS CODE BOT.PY
+
 ## Overview
 This project implements a Telegram bot using Python. The bot supports a variety of features, including:
 
